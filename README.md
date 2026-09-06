@@ -12,6 +12,18 @@ This project demonstrates a full database lifecycle: **design → implementation
 
 ---
 
+## 📊 Database Design (ERD & Mapping)
+
+### Entity-Relationship Diagram
+
+![ERD](Erd.png)
+
+### Entity Relationship Mapping
+
+![Mapping](_mapping.png)
+
+---
+
 ## 🗃️ Database Schema (15 Tables)
 
 ### 👤 Users & Contact Data
@@ -108,20 +120,6 @@ The script includes a rich set of T-SQL operations:
 ```sql
 -- Run the whole script, or run section by section.
 ```
-
----
-
-## 📊 Database Design (ERD & Mapping)
-
-### Entity-Relationship Diagram
-
-![ERD](Erd.png)
-
-### Entity Relationship Mapping
-
-![Mapping](_mapping.png)
-
----
 
 ## 📁 Project Structure
 
