@@ -1,4 +1,4 @@
-﻿# 🏆 Online Competition & Voting Platform Database
+# 🏆 Online Competition & Voting Platform Database
 
 An enterprise-grade **Microsoft SQL Server** relational database built from scratch to power an online competition & voting platform. It manages contestant submissions, voting integrity, real-time score analytics, results, and payments.
 
@@ -144,5 +144,5 @@ Built as part of hands-on training including:
 
 - **Author:** Mohamed Hany
 - **LinkedIn:** [Mohamed Hany Abdelfattah](https://www.linkedin.com/in/mohamed-hany-abdelfattah)
-- **GitHub:** [Mohamedhany-star](https://github.com/Mohamedhany-star)
+- **GitHub:** [Mohamed-Hany-Abdelfattah](https://github.com/Mohamed-Hany-Abdelfattah)
 - **Email:** mhmdhanybdalftah045@gmail.com
