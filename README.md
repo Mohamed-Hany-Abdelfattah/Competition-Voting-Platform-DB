@@ -1,4 +1,4 @@
-# 🏆 Online Competition & Voting Platform Database
+﻿# 🏆 Online Competition & Voting Platform Database
 
 An enterprise-grade **Microsoft SQL Server** relational database built from scratch to power an online competition & voting platform. It manages contestant submissions, voting integrity, real-time score analytics, results, and payments.
 
